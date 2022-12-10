@@ -1,0 +1,1 @@
+Startiing to code C
